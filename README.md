@@ -1,2 +1,2 @@
 # streamlit_Churn 
-### Bank online
+### Online Bank
